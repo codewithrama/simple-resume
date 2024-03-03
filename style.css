@@ -1,0 +1,24 @@
+body {
+    background-color: #000;
+    color: bisque;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: bisque;
+}
+
+hr {
+    color: beige;
+}
